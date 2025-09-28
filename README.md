@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Zunmel/tobom/blob/main/logo.png" alt="ToBom Logo" width="200"/>
+</p>
+
 # ToBom – Smart BOM Management
 
-[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9PLDS79H6JDV)
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9PLDS79H6JDV">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" height="60"/>
+  </a>
+</p>
 
 ---
 
